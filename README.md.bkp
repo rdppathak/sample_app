@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ruby on Rails Tutorial: sample application
 
 This is the sample application for
@@ -265,3 +266,9 @@ vendor
   External libraries that the application depends on. Also includes the plugins
   subdirectory. If the app has frozen rails, those gems also go here, under
   vendor/rails/. This directory is in the load path.
+=======
+sample_app
+==========
+
+Sample RUBY rails tutorial program
+>>>>>>> 26475ff37db57da5150457cf74f8d153a948a81f
